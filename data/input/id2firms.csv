@@ -1,7 +1,17 @@
-document_id,firm_id,time,firm_name
-127676,21988940,2011-05-12,"Bionovo, Inc."
-1688885,5463655,2019-03-17,abrdn plc
-2154865,7376197,2020-11-30,"First Financial Holding Co., Ltd."
-2261177,417010627,2021-04-28,Epiroc AB (publ)
-971094,292092,2016-05-03,NiSource Inc.
-980801,114700502,2016-05-11,SodaStream International Ltd.
+document_id,firm_id,time,transcript_title,path
+16448,1886,2000-04-26,Q1 2000 Earnings Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20000426-16448-C.xml
+16556,1886,2000-07-26,Q2 2000 Earnings Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20000726-16556-C.xml
+16557,1886,2000-10-25,Q3 2000 Earnings Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20001025-16557-C.xml
+16557,1886,2000-10-25,Q3 2000 Earnings Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20001025-16557111-C.xml
+16557,1886,2000-10-25,Q3 2000 Earnings Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20001025-16557222-C.xml
+16558,1886,2001-01-24,Q4 2000 Earnings Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20001025-16557333-C.xml
+16558,1886,2001-01-24,Q4 2000 Earnings Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20001025-16557444-C.xml
+16558,1886,2001-01-24,Q4 2000 Earnings Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20010124-16558-C.xml
+16400,1886,2001-04-25,Q1 2001 Earnings Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20010425-16400-C.xml
+16446,1886,2001-07-25,Q2 2001 Earnings Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20010725-16446-C.xml
+16398,1886,2001-09-26,Revised Guidance Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20010926-16398-C.xml
+1055454,5589,2007-02-07,Interim 2007 Earnings Call - London Question & Answer ,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20070207-1055454-C.xml
+1297322,3537,2010-03-09,Canaccord Adams Musculoskeletal Conference,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20100309-1297322-C.xml
+1912197,66927,2017-10-19,Q3 2017 Earnings Call,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20171019-1912197-C.xml
+2385792,86390,2020-05-12,J.P. Morgan Virtual TMC Conference,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20200512-2385792-C.xml
+missingC:/Users/jizhouw0/Desktop/sample_transcripts_xml\20210302-2479659-C-5162885.xml,missingC:/Users/jizhouw0/Desktop/sample_transcripts_xml\20210302-2479659-C-5162885.xml,NA,NA,C:/Users/jizhouw0/Desktop/sample_transcripts_xml\20210302-2479659-C-5162885.xml
