@@ -9,7 +9,7 @@ from pathlib import Path
 
 from stanza.server import CoreNLPClient
 
-import global_options_qa_qa
+import global_options_qa
 from culture import file_util, preprocess_parallel
 
 
