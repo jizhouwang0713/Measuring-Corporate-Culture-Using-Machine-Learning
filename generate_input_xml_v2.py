@@ -71,6 +71,24 @@ def line_counter(a_file):
     return n_lines
 
 # %%
+# We define a function that returns the transcript id
+def extract_transcript_id(path_str):
+    with open(path_str) as f: 
+            file = f.read()
+            
+    call = BeautifulSoup(file, 'xml')
+    
+    # First deal with the meta data 
+    if call.find('transcript') == None:
+        no_transcript = 1
+        transcript_id = "missing" + path_str
+    else:
+        transcript_id = str(call.find('transcript').get('id'))
+        
+    return transcript_id
+    
+
+# %%
 # We define a function that is used to extract desired parts from an earnings call transcript
 def extract_sections(path_str):
     # initialize two variables to indicate whether the scripted and unscripted sections exist
@@ -168,7 +186,7 @@ def extract_sections(path_str):
         out_f.write(full_discussion + '\n')
     
     # Return whether the scripted and unscripted sections exist
-    return no_management_discussion, no_QA, no_transcript, no_date, no_title, no_company, transcript_id
+    return no_management_discussion, no_QA, no_transcript, no_date, no_title, no_company
     
     
 
@@ -186,22 +204,21 @@ problematic_file_id = 0
 for filename in os.scandir(directory):
     if filename.is_file():
         doc_count_total += 1
-        if filename.path not in included_dict: 
-            no_management_discussion, no_QA, no_transcript, no_date, no_title, no_company, transcript_id = extract_sections(filename.path)
-            
-            if transcript_id not in included_dict:
-                doc_count_C += 1
+        transcript_id = extract_transcript_id(filename.path)
+        if transcript_id not in included_dict: 
+            doc_count_C += 1
+            no_management_discussion, no_QA, no_transcript, no_date, no_title, no_company = extract_sections(filename.path)
+     
+            if no_management_discussion + no_QA + no_transcript + no_date + no_title + no_company > 0:
+                problematic_file_id += 1
+                data_row = [0, 0, 0, 0, 0, 0, filename.path.replace('\\', '/')]
+                varlist = [no_management_discussion, no_QA, no_transcript, no_date, no_title, no_company]
+                for i in range(len(data_row)-1):
+                    if varlist[i] == 1:
+                        data_row[i] = 1
                 
-                if no_management_discussion + no_QA + no_transcript + no_date + no_title + no_company > 0:
-                    problematic_file_id += 1
-                    data_row = [0, 0, 0, 0, 0, 0, filename.path.replace('\\', '/')]
-                    varlist = [no_management_discussion, no_QA, no_transcript, no_date, no_title, no_company]
-                    for i in range(len(data_row)-1):
-                        if varlist[i] == 1:
-                            data_row[i] = 1
-                    
-                    problematic_dict[problematic_file_id] = data_row
-                    
+                problematic_dict[problematic_file_id] = data_row
+                
             included_dict[transcript_id] = 1
                 
 # Now we loop over the files for the second time. We focus on the raw transcripts.
