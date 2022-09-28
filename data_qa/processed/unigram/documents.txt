@@ -1,0 +1,752 @@
+good morning
+[ner:person] [ner:organization]
+begin want remind everyone meeting hold [ner:date] term safe_harbor_disclaimer
+disclaimer read follow follow discussion may contain certain statement constitute forward look statement within [ner:organization] safe_harbor_provision private securities_litigation_reform_act rule_3b [ner:misc]
+although statement represent management good judgment [ner:date] information [ner:date] available statement involve risk uncertainty could cause result differ materially company expectation
+would also like ask everyone follow guideline
+conference_call will maximum [ner:duration] will begin business_highlight [ner:person] [ner:organization] chief_executive follow question_-_and_-_answer_session
+request ask [ner:number] question time will honor request [ner:number] clarification require
+will allow everyone ask least [ner:number] question
+let [ner:date] turn meeting [ner:person] [ner:organization] chief_executive_officer
+okay
+thank [ner:person]
+welcome everyone
+may see press_release want cover highlight [ner:date] open_it_up q&a
+record earnings [ner:percent] [ner:date] revenue across entire business [ner:percent]
+human_health_category [ner:percent] revenue would [ner:percent] except foreign exchange
+bioscience_business [ner:percent] revenue
+also able increase gross profit life_science_sector mainly eliminate low margin_product replace high margin_new_product improve productivity new product_growth
+[ner:money] revenue budget new product new [ner:date]
+focus primarily proprietary product service less extent involve service large pharma
+reposition company life_science proceed well
+[ner:date] [ner:percent] gross profit come [ner:organization] [ner:percent] [ner:date]
+[ner:date] complete [ner:number] acquisition life_science_sector accretive earnings
+[ner:number] give new technology_platform build_on [ner:date]
+expect will major change business_model way_new_drug_discovery take place way lead compound select optimize clinical trial perform result new different product_approval
+really go drive fact cost new drug_delivery must reduce million [ner:money] time must reduce [ner:duration] matter [ner:duration]
+involve [ner:date] small way will add product service [ner:date] take advantage major shift
+[ner:number] example building [ner:date] would like mention acquisition [ner:location] [ner:organization] [ner:date]
+really new technology_platform base enzyme_chemistry
+r&d_program run business [ner:duration] cost couple [ner:money] [ner:duration]
+[ner:date] begin pay_off
+develop new patent route taxol_side_chain manufacture ship several [ner:money] new compound
+[ner:person] develop new route control substance use add attention_deficit_disorder
+produce [ner:number] kilogram_quantity chiragene_cgmp_pilot_plant large scale_production will [ner:location] [ner:location] business will grow least [ner:money] [ner:duration]
+also work chiral compound [ner:location] use enzyme produce new class material call epoxide_hydrolase
+will use make new chiral building_block new drug
+lastly would like mention demand active pharmaceutical ingredient generic pharmaceutical company continue grow order_backlog time high
+many know number_[ner:number] field term number compound active ingredient offer expect add [ner:number] new compound [ner:duration] go forward
+[ner:person] [ner:date] open_it_up question
+[ner:person] [ner:organization]
+[ner:person] will [ner:duration]
+begin want remind everyone meeting hold [ner:date] term safe_harbor_disclaimer
+follow discussion may contain certain statement constitute forward look statement [ner:organization] safe_harbor_provision private securities_litigation_reform_act rule_3b [ner:misc]
+although statement represent management good judgment [ner:date] information [ner:date] available statement involve risk uncertainty could cause result differ materially company expectation
+would also like everyone follow guideline conference_call
+will maximum [ner:duration]
+will begin business_highlight [ner:person] [ner:organization] chief_executive_officer follow question_-_and_-_answer_session
+request ask [ner:number] question time will honor request [ner:number] clarification require
+will provide access everyone question
+[ner:date] let turn meeting [ner:person]
+okay
+thank [ner:person]
+good morning everyone
+will take [ner:duration] discuss highlight [ner:date]
+see press_release record_earnings [ner:date] [ner:number] [ner:percent] [ner:date]
+although strong dollar negatively impact [ner:organization] addition mention experience several customer_overstock_situation addition drop number product deteriorate margin_ass_part continuous product_rationalization_activity
+combine product_mix [ner:date] increase margin gross margin [ner:percent] [ner:percent]
+lastly category see press_release [ner:organization] [ner:date] behind
+next want comment small important transaction make [ner:date]
+[ner:ordinal] acquire line zinc_and_chromium_picolinate use human animal nutrition
+chemistry nice fit exist pyridine_technology
+time will add [ner:money] highly profitable business
+go move manufacturing product facility [ner:location] [ner:location]
+[ner:ordinal] announce acquisition [ner:organization] technology base company [ner:location]
+purchase support entry high throughput_screening_market novel patented luminescent technology
+[ner:misc] biowhittaker talk fairly extensively change take place drug_discovery drug_development open way new cell base high throughput_screening_assay test toxicity drug_candidate well select lead will process animal_testing clinical trial
+technology provide definitive advantage term sensitivity speed wide dynamic assay_range
+[ner:person] already [ner:number] product introduce market several pipeline
+plan integrate product service exist bioscience_infrastructure
+addition product_sale alone expect grow [ner:money] plan use acquisition foundation bioassay_service_business will build_on
+addition [ner:number] acquisition announce supply_agreement cecure proprietary antibacterial formulation food_and_food_processing_equipment
+material show dramatic ability eliminate bacterium [ner:location] e._coli listeria
+wait [ner:duration] [ner:organization] approve application [ner:date] expect complete [ner:date] case will add expect [ner:money] top line_sale [ner:date]
+move different topic
+consequence strengthen sale_force [ner:date] [ner:date] see record_number_of_project_opportunity
+new product introduce [ner:date] alone expect [ner:money] revenue track achieve
+also result several lab run capacity work new project
+result expand facility hire chemist
+also expand pilot_facility [ner:location] [ner:location] schedule occupy [ner:organization] [ner:date] probably [ner:date] rather [ner:date]
+[ner:date] will review [ner:organization] scope phase [ner:number] phase_iii technical center
+expect phase [ner:number] approve [ner:date] will provide cgmp_kilo_lab_facility
+follow [ner:person] will add cgmp_pilot_plant [ner:organization]
+lastly want mention recruit scientist_,_chemist [ner:date] hire another top notch_molecular_scientist dr._[ner:person] will become vice_president r&d [ner:organization]
+dr._[ner:person] expert biochemistry cell_biology
+experience [ner:organization]
+head research_lab [ner:organization] [ner:date] chief_scientific_officer osiris_therapeutics strong reputation convert technology marketable product
+secondly hire dr._[ner:person] join [ner:organization] technical_director molecular_biology_products
+dr._[ner:person] [ner:date] r&d_group_manager protein_expression [ner:organization]
+build business base technology_platform add good person find support growth area
+would [ner:date] open_it_up q&a_session
+operator
+hello welcome
+begin want remind everyone meeting hold [ner:date] term safe_harbor_disclaimer
+safe_harbor_disclaimer follow discussion may contain certain statement constitute forward look statement [ner:organization] safe_harbor_provision private securities_litigation_reform_act rule_3b [ner:misc]
+although statement represent management good judgment [ner:date] information [ner:date] available statement involve risk uncertainty could cause result differ materially company expectation
+conference_call_guideline would also like ask everyone follow guideline
+conference_call will maximum [ner:duration]
+will begin business_highlight mr._[ner:person] question_-_and_-_answer_session
+request ask [ner:number] question time will honor request [ner:number] clarification require
+will provide access everyone question
+instant replay conference_call will available approximately [ner:number] [ner:date] end business [ner:date] call [ner:number] domestic call [ner:number] international
+webcast also accessible website www.cambrex.com
+please click investor_relations_button
+[ner:date] let turn meeting [ner:person] [ner:organization] chairman chief_executive_officer
+thank [ner:person] good morning everyone
+also join [ner:date] [ner:person] executive vice_president chief_operating_officer
+will spend [ner:duration] discuss highlight [ner:date] will open_it_up q&a
+see press_release record earnings [ner:date] [ner:percent] [ner:date] pleased performance
+impressive accomplishment since know typically soft quarter addition [ner:date] several external factor negatively impact top line_growth profitability
+weak euro [ner:number] effect [ner:ordinal] negative impact [ner:misc] sale convert back us_-_dollar_basis secondly allow [ner:misc] competitor significant advantage price
+face aggressive pricing_situation competition several active pharmaceutical ingredient area ulcerative colitis animal_health_product x-ray_contrast_media_product
+addition currency_translation human health_sector impact growth [ner:percent]
+animal health_/_ag specialty_segment experience significant increase raw material_and_energy_cost discuss [ner:date]
+change raw material_price [ner:date] alone cost [ner:money] pre-tax
+continue pass cost increase lag due price_protection term expect recover [ner:date]
+human health_segment_sale typically lumpy quarter quarter combined effect euro postpone order continue shift high margin_product continue lower sale_number particular [ner:number] customer delay [ner:organization] [ner:date] [ner:number] customer process_validation_change complete couple inventory_overstock
+finally bioscience_segment supply_problem mention [ner:number] cell_type result [ner:money] [ner:date]
+sourcing_problem resolve year_-_end
+side exclude [ner:number] product supply_problem base_business balance normal human cell_line achieve [ner:percent] sale
+good performance mask couple problem
+will [ner:date] open_it_up question
+[ner:person] could proceed
+good morning everyone
+operator note [ner:person] [ner:organization] chief_financial_officer
+[ner:person] chief_executive_officer [ner:person] chief_operating_officer [ner:organization]
+begin want remind everyone conference_call hold [ner:date] term safe_harbor_disclaimer
+follow discussion may contain certain statement constitute forward look statement [ner:organization] safe_harbor_provision private securities_litigation_reform_act rule_3b [ner:misc]
+although statement represent management good judgment [ner:date] information [ner:date] available statement involve risk uncertainty could cause result differ materially company expectation
+would also like ask everyone follow guideline
+conference_call will maximum [ner:duration]
+will begin business_highlight [ner:person] question_-_and_-_answer_session
+request ask [ner:number] question time will honor request [ner:number] clarification require
+will provide access everyone question
+also note will instant replay conference_call available approximately [ner:number] [ner:date] will available end business [ner:date] call [ner:number] domestic call [ner:number] international
+webcast also accessible website www.cambrex.com
+[ner:date] let turn meeting [ner:person] [ner:organization] chairman chief_executive_officer
+thank [ner:person] good morning everyone
+want spend [ner:duration] discuss highlight [ner:date] comment [ner:date] outlook
+[ner:ordinal] pleased [ner:date] able achieve bottom line expectation difficult environment
+particularly impressive light exceptionally [ner:date] include y2k pre-buy even though customer deny happen
+anticipate [ner:date] also incur rise feedstock_price energy_price currency_effect negatively impact top line_sale profitability
+also y2k buy additional effect stock pile pull_down demand [ner:date] throughout [ner:date]
+ship [ner:number] new product [ner:ordinal] time [ner:date] continue make strong progress problem_area discuss [ner:date]
+set stage growth [ner:date] new product_sale product introduce [ner:date] nearly [ner:money]
+expect build foundation throughout [ner:date]
+human health report gross sale increase [ner:percent] versus [ner:date]
+however add back currency_translation_effect [ner:percent] put increase [ner:number] low end target_growth_range
+however normalize y2k_impact almost [ner:money] would place upper end growth_range close [ner:percent]
+continue walk away low margin_business considerable less impact [ner:date]
+time however euro continue strengthen recover [ner:date] lose business
+build innovative pharmaceutical_business strong pipeline new product development_facility full [ner:date] well [ner:date]
+provide additional capability [ner:date] announce complete occupy [ner:organization] new facility will hub life_science_product_process_development
+complete expansion new product_facility [ner:location] [ner:location] build new large laboratory [ner:location]
+generic business introduce [ner:number] new product [ner:date] include wide range cover antiviral tranquilizer beta_-_blocker colitis_treatment antihistamine antibacterial adhd_therapeutics
+significant backlog production well [ner:date]
+expand geographic marketing_territory demand generic pharmaceutical continue spread country include [ner:location] [ner:location] [ner:location] [ner:location] well country [ner:location]
+also [ner:date] announce equity_investment technical collaboration synthon_chiragenics
+collaboration include manufacturing_agreement already ship product technical collaboration leverage_synthon [ner:organization] chiral technology
+work synthon [ner:duration]
+[ner:date] scale_up [ner:number] new pharma_product metric ton_quantity
+expect see [ner:number] relationship
+bioscience_area grow [ner:number] year_-_over-year continue push_margin_up
+[ner:date] [ner:percent] [ner:percent] [ner:date]
+sale [ner:date] low margin serum diagnostic product entirely responsible
+high growth high margin_product_line remain healthy
+reorganize bioscience_business [ner:number] global business_unit bio-research bio-therapeutic business_unit
+organization base manage end_market customer back company will enhance entire supply_chain_performance
+will able focus new technology speed new product marketplace
+coincident new structure put several new seasoned bioscience_executive place
+solve sourcing_problem time implement new information_system business_process
+see multitude opportunity horizon leverage integrate technology across multiple platform
+already see benefit global business_alignment lal_tox_testing_product_line finish [ner:date] strong note lot new product_momentum go [ner:date]
+cell_therapy continue strategic long term_growth_area bioscience_unit
+agreement company make product late clinical phase_[ner:number] cell base therapeutic
+cell base assay also high priority
+market_segment_growth expect exceed [ner:percent] per [ner:duration] continue put resource place acquisition lumitech build [ner:money] within [ner:duration]
+finally [ner:date] [ner:organization] continue target sale_revenue_growth [ner:percent] bioscience_segment [ner:percent] human health
+new technology product cell media cell_-_therapy_bioassay new cell_system will fuel build growth
+generic pharma demand will continue expand geographically increase number drug come_off patent will increase yield generic api_growth
+also expect enter manufacturing generic biopharmaceutical
+use sailing_term feel wind [ner:date] back
+raw material_cost decline energy_cost trend_down euro strengthen resolution raw material_supply_problem take care
+think really low point specialty_chemical_cycle look excellent exciting [ner:date] sale net income reposition company life_science_arena
+operator could [ner:date] open_it_up q&a
+welcome
+[ner:person] [ner:organization] chief_financial_officer
+begin want remind everyone conference_call hold [ner:date] term safe_harbor_disclaimer
+disclaimer say follow discussion may contain certain statement constitute forward look statement [ner:organization] safe_harbor_provision [ner:misc] rule_3b [ner:misc]
+although statement represent management good judgment [ner:date] information [ner:date] available statement involve risk uncertainty could cause result differ materially company expectation
+would also like ask everyone follow guideline
+conference_call will maximum [ner:duration]
+will begin business_highlight [ner:person] [ner:organization] chairman chief_executive_officer question answer_session
+request ask [ner:number] question time will honor request [ner:number] clarification require
+will provide access everyone question
+instant replay conference_call will available approximately [ner:number] [ner:date] end business [ner:date] call [ner:number] [ner:number] international
+webcast also accessible website "www.cambrex.com
+[ner:date] let turn meeting [ner:person]
+thank [ner:person]
+good morning everyone
+want spend [ner:duration] discuss highlight [ner:date] [ner:date] outlook
+know many call will get q&a [ner:duration]
+pleased [ner:date]
+net income increase almost [ner:percent] eps increase [ner:percent] compare [ner:date]
+come combined effect top line_growth life_science_segment continue margin_improvement reduce interest tax_rate
+compare [ner:date] improvement even dramatic
+bioscience_segment start [ner:date] strong sale_growth [ner:percent] account currency_impact sale_growth [ner:percent]
+increase come predominantly sale cell_system media lal_endotoxin_product market already strong position
+[ner:date] organize bioscience_segment [ner:number] global business_group biotherapeutic bioresearch
+combination talented new management organization structure enhance customer_focus catalyst double digit_growth
+also put behind [ner:organization] cause shortage supply [ner:date] [ner:number] [ner:number] cell_source_problem discuss [ner:date]
+backlog resolve mid-quarter [ner:date]
+[ner:organization] also start [ner:date] well top line_sale [ner:number] [ner:date]
+account currency sale_growth close [ner:percent]
+growth sector continue come new product market include instance intermediate [ner:organization] [ner:organization] [ner:misc] new contact_lens_polymer several central nervous system cardiovascular therapeutics plus geographic expansion many generic api active pharmaceutical ingredient
+continued weakness euro permit [ner:misc] competitor snipe couple old product
+sale animal_health_and_ag_product due order_timing weak sale [ner:date] cause plant_outage
+continue see energy feedstock_cost_pressure_profitability segment although expect see moderate later [ner:date]
+natural gas_energy_cost animal_health ag_and_specialty_operation cost [ner:money] [ner:date] compare [ner:date]
+see specialty_chemical fine chemical experience slowness product sell segment coating photographic plastic telecommunication_market result general slowdown industrial market
+segment also include product drop
+offset ship [ner:number] new product [ner:date] development_facility book well [ner:date]
+[ner:date] board director meeting [ner:number] topic expansion lab phase_-_ii_expansion tech_center well expansion pilot_plant_facility
+look_out full [ner:date] know overall internal growth_rate target [ner:number] human_health [ner:number] bioscience earnings growth [ner:percent] great
+continue make progress reposition company life_science_market
+top line_growth will drive new product service accelerate drug_discovery development manufacturing process include biomanufacturing anything help customer get therapeutics patient fast
+target growth_area include cell media research biotherapeutic human cell base bioassay lead_optimization [ner:organization] [ner:organization] lal_endotoxin_product global expansion generic market niche_generic_product_portfolio combine broad partnership innovative pharmaceutical customer
+investment r&d will continue priority fuel organic growth
+everything connect unique technology_platform technical capability
+lastly want mention announce [ner:date] [ner:person] cfo will retire [ner:date]
+[ner:person] [ner:date] senior vice_president corporate_development will replace [ner:person] [ner:person] [ner:date] join q&a [ner:person] executive vice_president chief_operating_officer
+operator will [ner:date] open call q&a
+okay good morning
+[ner:person]
+get start know turn_over [ner:person] would like say couple word
+would like welcome [ner:organization] [ner:date]
+senior vice_president chief_financial_officer
+begin would like remind every everyone conference_call [ner:date] hold [ner:date] hold term safe_harbor_disclaimer
+disclaimer cover fact discussion might contain content constitute forward look statement within [ner:organization] safe_harbor_provision private securities_litigation_reform_act rule_3b [ner:misc]
+although statement represent management good judgment [ner:date] statement involve risk uncertainty could cause result differ materially company expectation
+conference_call will [ner:date]
+will begin business_highlight [ner:person] follow question_-_and_-_answer_session
+request ask [ner:number] question time will honor request [ner:number] clarification require
+replay conference_call will available beginning [ner:date] end business_[ner:date] call [ner:number] domestic international
+webcast also available website www.cambrex.com
+please click investor_relations_button
+would like turn meeting [ner:person] chairman chief_executive_officer
+okay thank [ner:person]
+think recover [ner:number] apologize irritable
+well easy quarter see press_release mostly drive dramatic slowdown sale [ner:organization]
+specialty fine_chemical_sector addition low demand customer think work_off excess inventory
+also continue reactor_problem [ner:number] facility result high cost low throughput poor yield
+addition cause shortage product could sell
+like everyone else impact foreign exchange although will become less less factor go forward
+area invest hold_up quite well specifically [ner:organization]
+human_health_area continue see robust pipeline new project big pharma emerge innovator actually [ner:date] project double compare [ner:date] [ner:date]
+sale continue increase product like [ner:organization] [ner:misc] therapeutics coronary disease high blood_pressure cancer_product diabetes
+also see like delay cause [ner:organization]
+actually [ner:number] mention [ner:organization] [ner:date] seem become common occurrence report weak euro put price_pressure old product pull_down sale_growth
+[ner:date] [ner:location] sale [ner:percent] close [ner:percent] adjust foreign exchange will get detail
+acquisition [ner:organization] account half improvement will talk thing go_on base_business
+strong performance cell media endotoxin_detection_product
+also new product help_out quite bit several new cell_system instance_caco_-_2_cell use new drug_screening chondrocyte cartilage adipocyte fat_cell adult stem_cell continue well
+addition introduce [ner:number] new cell base bioassay reportalight reporter_gene_assay vialight_[ner:organization] chemiluminescence_test microbial detection new elisa enzyme link assay adipocyte fat_cell
+cell_therapy new emerge technology many know strategic area [ner:organization] [ner:date] growth start supply_service [ner:number] new cell_therapy_application
+keep tight control cost spending lay
+also good environment add key r&d_and_sale_person mainly fill open position
+[ner:duration] [ner:date] add [ner:number] person r&d [ner:number] person sale marketing cost_increase take_on advance increase sale
+opening largely fill although will add person time time support many new growth_program need
+look ahead actually look back little bit
+internally say [ner:date] enter industrial manufacture recession demand traditional specialty_fine_chemical_area will continue weak think probably well [ner:date] cause pardon over-correction customer inventory
+think see really bad contraction
+say excited prospects [ner:misc] active pharmaceutical_ingredients manufacture arena small molecule bio-therapeutics
+see strong demand api generic pharmaceutical company big pharma product clinical trial emerge pharma small molecule bio-therapeutics
+also contract_r&d supply small quantity process_development remain quite strong
+support growth invest high return investment_project present board directors [ner:date]
+[ner:ordinal] add cgmp_capacity [ner:location] [ner:location] manufacturing control substance
+report early put place [ner:organization] procedure install approve
+active ingredient make general purpose_cgmp_pilot_plant
+new investment will give dedicated facility make control substance will place [ner:date]
+secondly expand key process_bottleneck lal_endotoxin_detection_manufacturing
+will expand factor [ner:number] will stream [ner:date]
+beyond upgrade r&d_lab
+instance [ner:location] [ner:number] go_on
+already well phase add capability new tech_center [ner:location]
+lastly know add capacity new bio_science_contract manufacture facility [ner:location]
+suite [ner:number] will stream [ner:date] suite [ner:number] perhaps [ner:date] [ner:date] [ner:date]
+lastly would like say look ahead believe give continue drag earnings old business will probably end_up [ner:date] earnings_improvement range [ner:percent] compare [ner:date] versus [ner:duration] [ner:percent]
+however new product_growth already see [ner:date] expect earnings return [ner:percent] [ner:date]
+okay
+[ner:person] think open_it_up q&a
+okay actually [ner:person] chief_financial_officer [ner:organization] join [ner:person] chairman ceo well [ner:person] chief_operating_officer president
+begin want remind rule conference_call
+call hold safe_harbor_disclaimer state discussion might contain context constitute forward look statement within [ner:date] [ner:organization] private securities_litigation_reform_act rule_3b [ner:misc]
+although statement represent management good judgment [ner:date] information [ner:date] available statement involve risk uncertainty could cause result differ materially company expectation
+conference_call will [ner:date]
+will begin introductory statement mr._[ner:person] follow question answer_session
+request ask [ner:number] question time though will honor request [ner:number] clarification
+replay conference_call will available approximately [ner:date] end business_[ner:date] call [ner:number] domestic [ner:number] international
+webcast also accessible website www.cambrex.com
+please click investor_relation_button
+[ner:date] let turn meeting [ner:person] [ner:organization] ceo
+okay [ner:person] thanks
+good afternoon
+well know issue press_release [ner:date] earnings_shortfall versus analyst consensus_number
+analyst follow know [ner:date] low quarter usually [ner:date] give [ner:date]
+order make [ner:date] depend strong performance [ner:date]
+although point preliminary datum see [ner:date] [ner:date] expect
+economy really continue deteriorate [ner:date] compound attack [ner:location] [ner:organization] [ner:date]
+know look [ner:location] many headquarters_employee watch horror [ner:date]
+understand impact everyone every business country realize business change quite dramatically
+forecast use longer apply recheck re-forecast work hard get number get foundation result cause issue release [ner:time]
+around number economic cycle see condition severe since [ner:date] except think time happen lot suddenly
+[ner:date] order_flow really slow several location fact stop [ner:duration]
+order product ready air_shipment delay specifically overseas generic active pharmaceutical ingredient_shipment biotechnology live cell
+case customer routine test halt affect reagent_sale
+business will pick_up [ner:date] lose entirely
+beyond build inventory strike_contingency [ner:number] location
+contract settle will correct level inventory [ner:date] [ner:number] will affect operate rate fix cost_absorption
+regard [ner:date] take cautious approach
+information forecast unreliable point customer conservative
+know general uncertainty economic climate will [ner:date]
+say expect revenue improve [ner:date] especially bioscience_and_human_health_segment
+point somewhat uncertain exact mix human_health part reason little bit cautious sure exactly [ner:date] impact will margin
+continue push aggressively cost_containment target_savings [ner:money] pre-tax [ner:date] part will come sg&a discretionary spending part rationalization poorly perform product_line underutilize facility
+base see however specific action take new product know grow product good growth_prospects expect good [ner:date]
+expect life_science_business continue strengthen together cost_reduction mention minimum improvement specialty fine_chemicals instance_energy raw material already come reach double digit_growth earnings [ner:date] even exclude effect fas [ner:number] goodwill_amortization_accounting
+lastly would like say [ner:organization] [ner:date] [ner:organization] formally approve proceed new line credit least [ner:money] time reaffirm management authority repurchase [ner:number] share [ner:organization]
+say think [ner:date] operator open floor question
+thank [ner:person]
+present [ner:time] skeregy_side basically [ner:number] business want twice
+[ner:organization]
+go give quick overview talk division jump straight healthcare
+market_capital [ner:number]
+diversify global developer manufacturer reseller security_and_inspection_system medical monitoring anaesthesia_system oximetry health_service [ner:organization]
+[ner:number] research_analyst [ner:person] [ner:person] [ner:person] [ner:person]
+book value approximately [ner:money] share strait_organic_growth successful integration [ner:number] acquisition
+primarily semi-conductor_company
+make [ner:misc] distinguish move fast value add strain go play broad industrial segment afraid jump end_product like demonstrate healthcare security_area
+chart give idea cagr [ner:percent] guidance [ner:number] [ner:number] [ner:date]
+break [ner:date] segmentation though [ner:duration] start segment business [ner:number] segment [ner:organization] security optoelectronics
+earnings_call [ner:ordinal] announce time give segmentation
+experience management_team
+pretty much decentralize [ner:organization] run separately
+[ner:organization] consolidate corporate level
+thing security opto
+group organize [ner:number] division [ner:misc] system security [ner:organization] [ner:organization]
+quickly [ner:organization] [ner:duration] optoelectric manufacturing_experience
+primarily start_off
+group comprise [ner:number] operate company trade_name
+manufacturing_capability [ner:location] [ner:location] [ner:location] [ner:location] [ner:location] [ner:location]
+strong get design capture addition outside revenue [ner:number] tell the_street [ner:date]
+[ner:date] [ner:number] [ner:date] [ner:organization] [ner:organization]
+quickly [ner:organization] leader multi-billion_dollar worldwide security_market
+vertically integrate security_provider
+key product baggage parcel inspection baggage cargo vehicle_inspection person screen
+healthcare diversify global developer manufacturer seller medical device include patient_monitoring anaesthesia_equipment pulse_oximetry medical service
+approximately [ner:number] patient monitoring_machine sell [ner:duration] [ner:date] [ner:number] anesthetic machine since inception sell globally
+approximately [ner:number] employee globally office [ner:number] country establish global brand_name [ner:organization] monitoring [ner:person] anaesthesia dolphin oximetry
+group_highlight [ner:number] consecutive quarter profitability since acquisition [ner:organization] [ner:date]
+positive cash_flow
+complete [ner:number] acquisition since [ner:date]
+revenue group approach [ner:money] fiscal [ner:date] growth_strategy will touch later organic growth acquisition complementary technology company
+revenue_chart
+outside [ner:organization] medical business comprise mostly oximetry osteoporosis_equipment
+revenue [ner:number] [ner:date] [ner:date] [ner:number]
+[ner:date] will [ner:duration] full integration revenue approximately [ner:money] mention think say couple meeting intention grow internally acquisition [ner:duration]
+[ner:organization] get pretty intact team buy [ner:organization] [ner:organization] post-divestiture [ner:organization]
+[ner:person] run [ner:organization] patient monitoring blease_new_acquisition acquire [ner:location]
+[ner:person] run [ner:organization] [ner:person] run global sale
+global presence
+distribution datex_sale [ner:location] [ner:location] [ner:location] [ner:location] [ner:location] [ner:location] [ner:location] distribution approximately [ner:number] country
+distribution_office [ner:location] [ner:location] [ner:location]
+manufacturing [ner:location] [ner:location] [ner:location] [ner:location] joint venture [ner:location] logistic center [ner:location] [ner:location] [ner:location] [ner:location]
+r&d spread mostly [ner:location] aggressively move [ner:location]
+[ner:number] person [ner:location] back end r&d will monitor also r&d_center [ner:location] anaesthesia_machine
+person ask medical
+will give chart medical security
+establish company [ner:date] provide turnkey_manufacturing medical device [ner:organization] [ner:organization] [ner:organization] [ner:organization] [ner:organization] many [ner:misc] base
+[ner:date] acquire unique product_line call arrestone oximetry_business
+[ner:date] acquire osteometer
+[ner:date] go respiratory gas_analysis_product_line
+[ner:date] launch dolphin compatible core_sens anticipation key banquet come lose happen [ner:date] [ner:date] [ner:date]
+[ner:date] acquire [ner:organization] [ner:organization] [ner:date] acquire [ner:organization] anaesthesia_company compliment monitor
+organize [ner:number] function monitoring [ner:organization] [ner:person] anaesthesia call medical solution oximetry [ner:organization] med datum osteoporosis
+will endure monitoring majority business operative market_overview
+monitoring_business customer hospital especially tend mean top end hospital
+[ner:number] unit sell [ner:duration] [ner:ordinal] lead brand [ner:location] strong brand_recognition [ner:location] [ner:location] [ner:location] [ner:location] [ner:number] [ner:number] recur revenue call supply accessory will touch
+opportunity growth business low actually monitor cross sell bundle product oximetry growth replacement_cycle
+[ner:location] customer hospital surgery_center clinic
+competition [ner:organization] [ner:person] monitoring also [ner:organization] [ner:organization] [ner:person] low end [ner:location]
+install basis also large [ner:number] unit install strong [ner:date] strong brand_recognition [ner:location] [ner:location] former [ner:misc] block
+print [ner:location]
+talk [ner:ordinal] continue rest business [ner:date] plan enter [ner:location]
+opportunity [ner:misc] market [ner:misc] market oem_business also cross_selling [ner:location]
+monitoring_overview quickly global brand_recognition [ner:number] unit sell globally [ner:duration] global sale service_coverage blue chip_customer_base
+company will internally mention word open architecture_platform monitor strong product_development commit r&d
+tell street [ner:duration] increase investing industry_peer r&d
+approximately r&d run [ner:number] annualize
+[ner:date] think [ner:number] plan continue [ner:duration] catch_up
+opportunity cut_thing_back percent_point [ner:number]
+product_monitoring_portfolio galimetry big spend
+introduce [ner:date] [ner:location] well receive
+anaesthesia delivery_ventilation overview company establish [ner:date]
+specialist design management distribution anaesthesia_system range low mid-high level_anaesthesia_system critically ventilation_product lead supplier oem_product individual anemia_component
+new family call [ner:person]
+also oem_part accessory business sell oem
+medical datum_solution_business divide call [ner:number] different segment oximetry competition medical core masimos [ner:misc] [ner:organization]
+pioneer [ner:number] digital l_oximetry_technology
+also complete line_-_up compatible remote analog_sensor big opportunity [ner:organization] compatible already oem_business [ner:organization]
+launch [ner:date] true link oximetry_product support [ner:organization] [ner:number] unit
+[ner:organization] ambulatory blood_pressure_monitoring dominant player [ner:number] monitor sell globally
+basically gold_standard
+go somebody go look ambulatory blood_pressure_monitoring [ner:organization] product buy
+competition suntract [ner:organization] [ner:person]
+opportunities gold_standard
+want use name also want capture low hang fruit look low cost_manufacturing go back low end
+med datum think big growth_opportunity
+competition eresearch [ner:organization] covenance
+[ner:number] trial participate phase phase [ner:number] phase [ner:number]
+opportunities develop market [ner:location] [ner:location] new [ner:organization] ecu_testing basically become requirement
+come_up new drug unless ecu_testing
+quickly touch oximetry basically opportunity give idea install unit [ner:organization] potential user razor_blade [ner:number] oximeter [ner:date] may call yet
+since launch new beginning
+think capture big portion market though go take little time medical convert_it_over
+installed base mean potential razor_blade_business [ner:number] installed base
+also make deal distributor call [ner:organization] [ner:duration] great job penetrate [ner:location]
+product digital completely front end back end [ner:number] unique product_differentiation get
+[ner:organization] start [ner:date] ecg_measurement_interpretation drug_trial
+post-ecg study conduct [ner:date] complete [ner:number] trial market_size approximately [ner:money] ecg_core_lab_testing [ner:date]
+big guy marketplace eresearch [ner:percent] market
+market_share [ner:percent] believe definitely [ner:duration] will double digit throughout
+internally predict [ner:percent] [ner:duration] portion business
+though small think really grow business back_-_end strengthen [ner:location] even make cost effective
+ambulatory blood_pressure [ner:number] unit globally sell
+market_leader
+[ner:percent] clinical research
+dominate international [ner:location] idea basically capture low side_product manufacturing_strength go back get top end low end
+pulp_and_development_opportunity
+expansion [ner:misc] market
+[ner:location] [ner:location] horizon sale manufacturing r&d
+mention already [ner:organization] [ner:location] [ner:location]
+plan look market focused grow business
+strategic_partnership acquisition must
+look acquisition complimentary technology company
+also look low acuity_monitor
+against [ner:organization] high end_business
+want look low acuity_monitor
+develop internally maybe strategic partnership go call independent surgery_center doctor office
+[ner:organization] strong ethnical presence lot industry_press also wireless capability look [ner:location] also home_care growth_opportunity
+lastly introduction anesthesia [ner:location]
+plan get go touch [ner:date] digest get
+growth_strategy capture_replacement_-_cycle_business monitoring cross_sell_oximetry_sensor basin_monitoring install base leverage_revenue_growth supply accessory
+every time sell [ner:misc] [ner:percent] supply accessory
+even default business [ner:number] [ner:money]
+plan grow
+focus onto kind area go enter cable special monitoring_cable oximetry already accessory supply compliment put product_line
+grow anesthesia_business [ner:location] [ner:misc] side develop presence low acuity_monitor globally
+summary already monitoring acquire anesthesia bundle many place non-u.s. go hand hand many tender anesthesia monitoring go together
+get ambulatory blood_pressure_monitoring gold_standard
+get medical datum_solution use talent able grow business clinical trial
+oximetry perfect razor_-_blade_fit product_line
+osteometer talk much couple_[ner:number] product_line go continue rest growth_opportunity
+hg_expansion low acuity_monitoring supply accessory [ner:location] home_care area go look growth
+anesthesia [ner:location] must telemedicine home_care
+thank much
+open question
+thank [ner:person]
+would like thank [ner:person] invite conference actually [ner:ordinal] time [ner:number] [ner:duration]
+actually get_my_wife_up could enjoy [ner:misc]
+hope able deal well
+go start_-_off everyone go read sure
+[ner:date] first would like welcome everyone take_the_time_out listen chairman ceo [ner:organization] [ner:person] cfo give highlight company [ner:organization] lpnt
+like welcome everyone webcast
+would like touch point significant point
+[ner:ordinal] [ner:number] page handout talk really happen [ner:person] will talk significant thing go industry affect company financial operationally well
+[ner:ordinal] unique company committed pure play volume like non-urban still good old role_boy focus_on focus hospital typically market see last bullet_point sole community_provider acute care [ner:number] [ner:number] market
+fix [ner:number] say [ner:duration] county [ner:location] [ner:location] [ner:person] couple [ner:number] person [ner:number] compete hospital
+buyer seller process sell hospital believe announce [ner:date]
+committed community improve quality care breadth service create cash_flow drive value shareholder
+see found company give small amount amount small [ner:percent] [ner:percent] share company retirement_plan [ner:organization] allocate_and_motivate_we_employee_out field [ner:number] employee participate equity motivate way
+[ner:date] make significant acquisition [ner:number] work_on good part [ner:duration] acquire [ner:organization] rural hospital albeit [ner:number] facility acute care_facility market
+take geographically economically diversify company
+live call hi five absolutely critical successful delivery healthcare especially rural community
+unique competition power manage care either take provide benefit great relationship physician
+see wall_street_perspective focus base core asset essentially expand scope quality care patient
+serious quality think watch go_on [ner:organization] [ner:location] president recent bill focus choice get pricing_/_quality communicate consumer well control healthcare_cost responsibility typically number [ner:number] [ner:number] employer market provide good quality_care market typically market person live market leave community get healthcare adequate position service market
+therefore tactic recruit recruit recruit physician [ner:person] will go expand service grow volume invest new service make sense
+lot analysis community person go get certain service set_out priority capex discipline put together business_plan focus return invest capital [ner:organization]
+operate company
+[ner:date] yes double size company
+create enormous growth [ner:duration] asset non-profit hospital capex will spin_in manage well loss_interest medical staff
+tremendous opportunity great success [ner:ordinal] thus acquire province [ner:date] acquire [ner:number] large acquisition [ner:location] [ner:location] [ner:location] [ner:location] [ner:date] tremendous opportunity growth go forward
+obviously build anything deliver care without great relationship [ner:misc] physician integrate within community
+anything hospital build order physician
+know employee live breathe provide structure clinical expertise technology support physician practice medicine obviously priority
+employee participate equity [ner:organization] visible motivation
+focus quality process_improvement give good workplace competitive salary_benefit
+another key element hi five
+number [ner:number] number_[ner:number] usually county_education_system hospital large employer extremely involve community highly incentivise employee involve community
+infact kid go school show_up [ner:date] grocery_store together pump gas employee physician relation employer community important will say physician recruit number_[ner:number] lose physician community age retirement number [ner:number] fully integrate position family community
+get medical staff community_leader involve recruit physician community high retention_rate physician well national average [ner:person] will talk detail
+obviously physical responsibility think will find [ner:organization] vote [ner:duration] row institutional investor transparent company
+provide information high level detail right thing [ner:percent] business government_business highly regulate need open everybody go_on absolutely critical
+show [ner:date] go [ner:number] hospital [ner:date] [ner:number] go [ner:number] [ner:number] hospital course [ner:duration] time
+go [ner:number] state significant amount revenue [ner:location] [ner:location] [ner:number] state pretty balanced exposure throughout country
+province bring lot hospital large western area good reimbursement high population_growth
+instance [ner:misc] many many person move [ner:location] across border [ner:location] suite credit retirement_fund sell home building live much cheap cost beautiful beautiful area could go point strategically create lot internal growth great market
+go asset_sale
+leverage
+focus will de-leverage announce [ner:number] asset_sale jv_money go_on float around [ner:location]
+person approach give anything away size company means think grow fast get discipline get acquisition spend money acquire [ner:money] worth revenue [ner:organization] correct
+sorry [ner:money] worth additional revenue [ner:organization] acquire [ner:number] hospital
+try balance integration_risk asset_sale course acquire another company asset make absolutely sense
+identify close finalize sell [ner:number] [ner:date]
+course [ner:date] will buy [ner:number] hospital [ner:organization] tremendous opportunity
+hospital ignore significant decline medical staff money invest technology
+already bring someone board work medical staff focus capital need bring get involved expand medical staff
+enormous growth [ner:date] [ner:date] hospital will drive
+committed
+lot person challenge province_transaction
+take perspective sell [ner:number] hospital acquire [ner:number] great growth_opportunity selling [ner:number] growth_opportunity think wise decision
+commit transaction will happen
+summery operate company will acquisition [ner:date] except [ner:organization] will spend significant capex new service money ever recruit physician market get volume return money investment province [ner:organization] [ner:location] [ner:location] sorry [ner:location] [ner:location] hospital hospital [ner:location] [ner:location] large facility will regional referral center
+hopefully give flavor strategy update company
+[ner:person] go get significant financial highlight think everyone mind understand guidance [ner:date] go [ner:date] [ner:date] guidance person go significant growth go growth growth [ner:date] pretty good growth [ner:date] closely [ner:money] eps thing [ner:date] blow_it_out [ner:duration] think whole industry see somewhat backing volume medicate problem drive bad debt especially [ner:location] [ner:organization] [ner:location] [ner:location] result katrina pretty big impact many company
+[ner:person]
+thank [ner:person] much
+go go quickly item [ner:date] question come_up [ner:number] question get call relate financial information
+[ner:number] item please note file [ner:number] [ner:date] file [ner:number] would show give description pro forma information relate province_transaction would occur [ner:date] also [ner:location] occur [ner:date] also [ner:organization] would occur also [ner:date] would like refer much would also like remind everybody [ner:person] state start [ner:date] [ner:number] hospital whole lot activity end_up [ner:date] [ner:number] hospital
+also want talk briefly physician_recruiting [ner:person] state area go heavily focus [ner:number] great divisional ceo hospital_ceo focused [ner:date] meet together hospital_ceo divisional operation_person alongwith hospital_ceo discuss start heavily planning position_recruiting retention will meet like say [ner:duration] [ner:location]
+will keep constantly inform [ner:set] review [ner:number]
+also want quickly talk [ner:organization] [ner:person] state [ner:misc]
+[ner:organization] pretty much discuss everything predominantly recent bill key item believe inpatient rehabilitate state [ner:percent]
+good news evaluate [ner:date] budget however give lot credibility point time pass
+number thing go impact would impact hospital [ner:number] significant obviously period [ner:duration] able put cost_report bad debt relate deductible amount will phase_out [ner:duration]
+[ner:misc] [ner:person] briefly touch [ner:organization] little bit
+still see challenge particularly denial come_up particularly individual try get roll [ner:misc]
+see process get little bit difficult number state
+although state start see surplus still see much change [ner:location]
+[ner:number] item also note also discuss think [ner:number] particular hospital several folk tell state [ner:location]
+[ner:location] change
+sort dish_payment normally give
+increase rate
+suppose little neutral
+majority hospital except [ner:number] reason [ner:number] get [ner:number]
+high [ner:misc] base [ner:location] [ner:location] [ner:location] hospital also [ner:percent] see impact
+[ner:number] come
+bad debt talk [ner:number] use company use outside service look credit_card_opportunity individual apply well hospital roll_it_out
+pilot_program [ner:date] see improvement [ner:number] basis_point little [ner:number] basis_point_improvement
+go roll_that_out [ner:number] hospital [ner:date] will take little bit time see come play go look remainder hospital roll_that_out throughout [ner:date]
+go continually concentrate upfront collection bad debt always know much industry_issue
+give little bit_[ner:date] want get much involved preliminary amount preliminary review see [ner:date] pleased see [ner:date] stand point
+will take place [ner:date] [ner:person] state [ner:date] sort rebase_[ner:duration] go get back basics get back high [ner:number] refocus get much reconfirm strong hospital strong market
+okay
+get [ner:duration] leave [ner:number] significant thought important thought culture company family orient retain top person industry
+[ner:ordinal] [ner:person] think see congratulation [ner:ordinal] child bear
+fortunate enough [ner:ordinal] grandchild gorgeous little girl [ner:date] bear fact son work investment_banking [ner:organization] [ner:person] [ner:person] key help create strong work_ethic [ner:number] working [ner:organization]
+importantly little bit culture importantly prove volume bad debt course [ner:duration]
+[ner:date] eps multiple multiple [ner:organization] low end range [ner:date] [ner:person] community_hospitals back know track [ner:person] wonderful great group asset tremendous reputation industry focus rural hospital
+goal get back [ner:person] multiple
+study [ner:person] look upside opportunity [ner:date] grow volume improve bad debt
+thank much
+[ner:misc] answer_session hold conjunction call
+
+thank
+good morning
+well [ner:ordinal] would like thank [ner:person] organizer conference give opportunity come talk [ner:person] [ner:date]
+follow [ner:person] [ner:date] know significant exciting development [ner:date] specifically acquisition [ner:organization]
+[ner:date] look like minority presentation least [ner:person] would complete without obligatory safe_harbor_statement
+would direct please consider forward look statement might make [ner:date] presentation within context also within context [ner:duration]
+[ner:person]
+medical product_company publicly trade [ner:location] also [ner:location] [ner:date] fab subsidiary
+[ner:duration] work naturally occur biomolecule call hyaluronan hyaluronic acid [ner:date] would refer ha
+think fair say fab [ner:person] recognize innovative developer differentiate product
+product cover several medical discipline orthopedic joint health advanced wound_care ophthalmology veterinary medicine general surgical application aesthetic dermatology
+also believe recognize [ner:person] high quality innovative manufacturer product
+stage development [ner:organization] fab_acquisition
+well simple answer technology expand product_portfolio
+lot
+technology_perspective [ner:number] well patent protect powerful basic technology fab [ner:location] [ner:organization] will talk little bit [ner:duration]
+within [ner:person] talk quite time expand develop commercialization_office [ner:location] fab_location [ner:location] well commercialize staff fulfil goal nicely
+human capital_perspective combination [ner:number] organization [ner:number] little focused research [ner:number] little focused development additive
+finally product_portfolio technology also research_program additive lot would think [ner:ordinal] glance
+let talk little hyaff_technology_success
+essentially react ha_molecule hyaluronan insoluble
+allow processing material solid form make fiber film sponge tube even microsphere
+good portion product date weave non-woven mesh ha use amount fairly standard textile_technology
+however move forward see could potential myriad application technology ha alone also ha combination biomaterial pharmacologically active entity
+will skip slide interest time
+[ner:ordinal] basic technology acquire fab_acquisition autocrosslink polymerization produce viscous ha_gel
+would also point_out [ner:person] crosslink_technology basis monovisc [ner:location] elevess hydrelle product_franchise
+actually powerful [ner:date] combination chemical_modification_technology give good leg able solve lot thorny formulation_problem develop new product
+word vision [ner:person] [ner:date] fab_acquisition
+see inventor developer commercialize agent innovative therapeutic product tissue_protection healing repair
+move forward primary area focus go joint health orthopedic advanced wound_care surgical application paradigm cover continuum patient care palliative protective restorative
+let switch gear little bit look revenue_growth [ner:location] include fab
+apologize [ner:duration] datum [ner:duration]
+will announce [ner:date] year_-_end result [ner:date] possible [ner:date] view [ner:date]
+[ner:number] thing note [ner:ordinal] see tiny yellow dusting top represent aesthetic dermatology_product
+think significant upside company product get adopt expand distribution worldwide see main driver certainly [ner:person] joint health_area will continue case [ner:date]
+say joint health mostly talk product treat osteoarthritis call viscosupplementation_product injection hyaluronic acid
+see substantial market worldwide market grow take look [ner:location] single large market probably [ner:number] product [ner:date] approve sale [ner:location]
+product target [ner:duration] pain_relief multiple injection_product
+[ner:location] product market [ner:organization] [ner:organization] product [ner:organization] [ner:number]
+rest product try accomplish goal [ner:number]
+[ner:number] single injection_product call synvisc_-_one release [ner:date] start make quite impact marketplace
+move forward [ner:date] look [ner:person] see [ner:number] thing
+[ner:number] believe market shift single injection_product
+also believe will place multiple injection_product would seem [ner:number] injection_product may lose luster unless efficacy_,_safety_or_real_cost_gain_implication
+shift single injection_product put pretty good stead [ner:person] product call monovisc receive pretty good attention [ner:location] [ner:date] [ner:location]
+status product [ner:location] move [ner:organization] [ner:organization]
+take modular approach
+submit clinical module [ner:date] expect will get approval [ner:date]
+let take look milestone achieve joint health_franchise good revenue_growth
+talk progress monovisc
+would bring attention [ner:number] point
+[ner:ordinal] generation_product development call cingal
+ha active therapeutic molecule incorporate
+intend bring clinic [ner:date]
+run minor technical problem importantly major distraction regard fab_acquisition
+still move forward product rationalize total product_portfolio maybe original schedule intend
+take long term_view couple important thing talk
+[ner:ordinal] intent take monovisc directly commercialize [ner:location] sale_force
+would add relevant fab_product get approve [ner:location] put also bag person
+fab successful develop cartilage_generation_product available [ner:location] hyalograft_c_and_hyalofas_product mention
+long term_strategy product [ner:date] [ner:date] develop
+totally clear will require bring [ner:location] juncture
+[ner:location] [ner:location] fab locate pretty sophisticated cell_biology_and_cell_processing_facility
+facility call tissue_test_product make
+[ner:number] product use polygase_cell [ner:ordinal] hyalograft_c incorporate chondrocyte hyaff_matrix [ner:number] laserskin_autograft_and_hyalograft_-_3d_matrix incorporate keratinocyte fiber_black hyaff_matrix
+wound_care_application will talk little bit [ner:duration]
+look hyalograft_c number patient implant follow_up fairly significant period time excellent result
+really time go result presentation [ner:date] successful product date
+essentially show process use biopsy take cell isolate concentrate seat matrix
+matrix develop implant back within [ner:duration]
+[ner:number]
+another product portfolio recent product ce mark something call hyalofas
+essence [ner:number]
+see hyalofas_matrix make ready implantation
+will let read slide essentially hyalofas take bone_marrow_acid_msd incorporate therein incorporate hyaff_matrix [ner:number]
+rationale hyalofas list
+[ner:number] thing want point_out spend fair amount time fab_develop_treatment_regimen paradigm look repair cartilage_lesion forth
+existence hyalofas hyalograft_c. really complementary
+use treat [ner:number] different size_defect
+think comprehensive portfolio cartilage_repair
+move advanced wound_care really lot time spend
+takeaway fairly extensive portfolio product treat various aspect complex wound
+go focus_on top pyramid skin_substitute
+mention hyalograft_3d_autograft
+hyaff_matrix seat fiberglass see matrix cell attachment progress
+product portfolio laserskin_autograft
+hyaff_matrix time seed high metric_time silicon_layer place top
+outer layer use adequate wound_bed would use product combination
+autograft initially [ner:number]
+cartoon depict product make essentially start biopsy various cell_site separate
+similar hyalograft_c
+move concentrate cell seed cell matrix return back doctor implantation patient
+will skip give idea portfolio product fab
+want mention product commercial product [ner:number] program development
+hyalobarrier_gel post-op adhesion_prevention_product use general pelvic surgery
+large large amount clinical datum available product
+quite successful [ner:location]
+start make headway revenue [ner:location]
+evaluate would take bring product [ner:location] likely randomized clinical trial
+item note particular slide hyalospine
+use prevent postoperative adhesion spinal surgery
+several product [ner:date] market
+[ner:number] quite different take innovative approach
+status basic preclinical pilot_study [ner:date] product [ner:location]
+let move [ner:date] little bit financial datum
+revenue see nice growth
+able grow gross margin reasonably well
+bottom line eps show growth certainly lot investor expect
+[ner:number] issue impact eps_growth construction new manufacturing_plant corporate center
+build [ner:location] [ner:location] process [ner:date] validate will soon move garner [ner:organization]
+run facility really somewhat expensive
+way would
+need capacity automation build new plant also plan transfer lot [ner:organization] [ner:location] manufacture
+balance_sheet [ner:duration] [ner:date] reasonable cash_position even fab_acquisition little debt
+acquire fab [ner:date] balance_sheet will release [ner:duration] will considerably different [ner:number]
+move forward [ner:date] main corporate goal hope achieve
+[ner:ordinal] foremost approval monovisc [ner:location] [ner:ordinal] launch_monovisc commercialization_arm [ner:location] continue worldwide commercial expansion [ner:organization] monovisc network distribution_partner additional new regulatory approval new country [ner:ordinal] fab_acquisition integration several task well way [ner:duration] [ner:ordinal] achieve final regulatory approval full manufacturing_status new plant [ner:location] [ner:location] finally increase continue increase revenue_growth maintain profitability least level [ner:date] hopefully reach
+thank much attention
+thank [ner:person]
+[ner:person] mention [ner:person] strong growth operating_profit [ner:date] base high sale service improve gross margin
+performance [ner:location] [ner:location] [ner:location] particularly strong
+total revenue [ner:date] nok [ner:number] [ner:percent] [ner:date]
+currency_movement positive effect [ner:percent] group_revenue [ner:date]
+growth revenue drive high sale service [ner:percent] software [ner:percent]
+offset slightly low sale hardware fall [ner:percent]
+total gross margin increase [ner:percent] [ner:percent] [ner:date]
+improvement gross margin drive high proportion service revenue_mix
+base increase revenue improve gross margin [ner:organization] grow [ner:percent] nok [ner:number]
+finally depreciation_and_amortization_cost fall [ner:percent] [ner:date]
+primarily due low capital_expenditure [ner:duration] [ner:date]
+improve capital_efficiency [ner:location] ebit grow [ner:percent] nok [ner:number]
+will [ner:date] take close look revenue profit development across country operate
+start [ner:location] sharp increase profitability [ner:date]
+total revenue grow [ner:percent] [ner:money]
+product_revenue [ner:percent] drive high sale client relate software
+service_revenue [ner:percent] base growth long term_service_contract outsourcing support_agreement
+gross margin increase slightly [ner:percent] compare [ner:percent] [ner:date]
+increase gross margin base high sale [ner:organization] service proportion revenue_mix
+personnel operating_expense flat [ner:date] result low head_count
+[ner:date] [ner:organization] [ner:number] full time_employee [ner:location] compare [ner:date]
+base high service_revenue low head_count [ner:organization] [ner:location] grow [ner:percent] [ner:date] [ner:money]
+will [ner:date] move [ner:location] business also solid growth revenue profitability
+total revenue [ner:location] grow [ner:percent] sek [ner:number]
+product_sale grow [ner:percent] compare [ner:date] drive high demand public sector_customer
+service_revenue grow [ner:percent] [ner:date] high sale consulting contract service
+time gross margin increase significantly [ner:percent] compare [ner:percent] [ner:date]
+increase gross margin base high hardware_margin increase sale [ner:person] service proportion revenue_mix
+solid revenue_growth improve gross margin [ner:location] [ner:organization] grow [ner:percent] sek [ner:number]
+continue_on [ner:location]
+[ner:location] atea report low sale also low operating_expense [ner:date]
+[ner:organization] slightly [ner:organization] [ner:date]
+total revenue fall [ner:percent] [ner:date] dkk [ner:number]
+product_revenue [ner:percent] strong comparable period [ner:date]
+[ner:date] [ner:date] product_revenue grow [ner:percent] base large project_rollout within client audio_/_video_solution
+service_revenue increase [ner:percent] base high sale contract service
+total gross margin improve slightly [ner:percent] [ner:date] compare [ner:percent] [ner:date] reflect service revenue_mix
+[ner:duration] [ner:person] take step reduce staffing_level [ner:location] response low sale
+since [ner:date] number full time_employee [ner:location] fall nearly [ner:number]
+[ner:date] average number full time_employee [ner:location] [ner:percent] [ner:date]
+addition business greatly reduce capital_expenditure [ner:date]
+result depreciation_cost fall [ner:percent] [ner:location] compare [ner:date]
+low operating_expense offset low revenue [ner:organization] dkk [ner:number] [ner:date] compare dkk [ner:number] [ner:date]
+[ner:organization] [ner:location] increase dkk [ner:number] dkk [ner:number] result low depreciation_cost
+ahead guidance give last [ner:set] presentation
+[ner:location] business continue show excellent growth revenue profitability throughout [ner:date]
+total revenue grow [ner:percent] [ner:money]
+product_sale grow [ner:percent] base high demand client_hardware particularly within new public sector_frame_agreement
+service_revenue [ner:percent] base high sale software_consultant large project_implementation
+gross margin increase [ner:percent] [ner:percent] [ner:date] high proportion service revenue_mix
+high revenue gross margin [ner:organization] grow [ner:money] compare minus [ner:money] [ner:date]
+finally [ner:organization] low revenue profitability [ner:date]
+total revenue [ner:percent] [ner:money]
+product_revenue increase [ner:percent] [ner:date] service [ner:percent] due large subcontract project [ner:date]
+personnel operating_expense grow [ner:percent] [ner:money]
+increase primarily due salary_inflation change employee_mix toward high end_consultant
+low revenue high operating_expense [ner:organization] [ner:percent] [ner:date] [ner:money]
+need put perspective despite decline ebitda_margin [ner:location] remain healthy [ner:percent]
+finally word cash_flow
+cash_flow operation inflow nok [ner:number] [ner:date] compare inflow nok [ner:number] [ner:date]
+see chart atea operating_cash_flow highly seasonal peak [ner:date] negative cash_flow [ner:date] work capital_balance increase low level [ner:duration]
+base seasonal pattern [ner:location] aim throughout [ner:date] continuously improve working_capital_balance seasonal period [ner:date]
+[ner:person] work capital_balance fall period [ner:date] work capital will positive impact cash_flow [ner:date]
+[ner:date] [ner:location] net work capital_balance remain nok [ner:number] [ner:date] reflect high [ner:duration] outstanding compare [ner:date]
+conclude summary [ner:date]
+will [ner:date] pass back podium [ner:location] provide information profit_improvement_initiative [ner:location] across business go forward
+
+
